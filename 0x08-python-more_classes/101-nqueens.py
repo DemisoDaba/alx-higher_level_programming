@@ -106,4 +106,5 @@ if __name__ == "__main__":
     solve_nqueens(board, 0, solutions)  # Find all solutions
 
     # Print the solutions
-    print_solutions(solutions)
+    print_solutions()
+    
