@@ -1,0 +1,1 @@
+This project is an integral component of the ALX Software Engineering curriculum. Its purpose is to delve into the realm of Python's inheritance concept. Inheritance plays a pivotal role in object-oriented programming (OOP), as it involves the creation of a new class that inherits properties and attributes from a preexisting class.
