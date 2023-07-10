@@ -3,6 +3,7 @@
 Contains a class MyList that inherits from list builtin
 """
 
+
 class MyList(list):
     """Inherits from the list class"""
 
