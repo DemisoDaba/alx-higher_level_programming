@@ -1,9 +1,5 @@
 #!/usr/bin/python3
 
-<<<<<<< HEAD
-=======
-
->>>>>>> d6e67713f22ba2fc246cfa32a8648ceaccc804c6
 """
 Base class for all other classes in this project
 """
